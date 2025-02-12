@@ -6,7 +6,6 @@
   - ⚡ Fun fact: ... Served 6 years as a reservist in the Military.
  
 
-p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
